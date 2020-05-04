@@ -6,8 +6,4 @@ image : "images/about.jpg"
 imageBottom: "images/about-bottom.jpg"
 ---
 
-Relectric Car Team was launched in 2019 in order to research affordable high-performance electric vehicles (EVs). Our team provides students an opportunity to gain technical engineering experience in an environment where collaboration is heavily encouraged.
-
-Currently, EVs are relatively expensive and difficult to find on the used car market. Our team aims to convert existing cars for a fraction of the price of a new vehicle, without sacrificing quality or features. Additionally, we strive to simplify user experience through software and create a unified experience that rivals modern cars.
-
-Our team also is passionate about raising awareness about the potential that electric cars have in a carbon-neutral future. Relectric is dedicated to accelerating the advancement of sustainable transport, while making this technology more accessible.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
