@@ -1,4 +1,4 @@
-baseURL = "https://teamrelectric.ca"
+baseURL = "https://teamrelectric.com"
 languageCode = "en-us"
 title = "Relectric Car Team"
 theme = "kross"
@@ -79,5 +79,5 @@ debug = true
   formAction = "https://formspree.io/mwkvwrlg" #contact form works with formspree.io
 
   [params.footer]
-  email = "info@teamrelectric.ca"
-  address = "622 Collegiate Pl NW, Calgary, AB T2N 4V8"
+  email = "RelectricUCF@gmail.com"
+  address = "lorem ispsum"
