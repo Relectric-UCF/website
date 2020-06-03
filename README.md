@@ -1,3 +1,3 @@
 ### Relectric Car Team Website
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/84f72d76-2332-4037-8a69-f13dc3cca84e/deploy-status)](https://teamrelectric.netlify.com/)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/75ec10e2-9157-4429-bc2a-b992c47a8635/deploy-status)](https://app.netlify.com/sites/sleepy-shirley-8ce957/deploys)
