@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Relectric Car Team</title>
-    <link>https:///www.teamrelectric.com/</link>
+    <link>https://teamrelectric.com/</link>
     <description>Recent content on Relectric Car Team</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 12 May 2019 12:14:34 +0600</lastBuildDate>
     
-	<atom:link href="https:///www.teamrelectric.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://teamrelectric.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>E-Volvo</title>
-      <link>https:///www.teamrelectric.com/projects/e-volvo/</link>
+      <link>https://teamrelectric.com/projects/e-volvo/</link>
       <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
       
-      <guid>https:///www.teamrelectric.com/projects/e-volvo/</guid>
+      <guid>https://teamrelectric.com/projects/e-volvo/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
