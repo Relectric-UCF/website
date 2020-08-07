@@ -6,10 +6,8 @@ image : "images/about.jpg"
 imageBottom: "images/about-bottom.jpg"
 ---
 
-<<<<<<< HEAD
 Relectric Car Team was founded at the University of Calgary in 2019 with the purpose to research affordable high-performance electric vehicles (EVs) conversions and design elements.
 
 At the University of Central Florida we aim to create the opportunity for students to gain hands-on experience while catering to an encouraging competitive international relationship in order to push the limits of students research and abilities.
 
 We are driven by our passion to bring awareness and aid the solution to various environmental issues.
->>>>>>> 9b9d4423f8e481064e7ae10ca70a76e362f3203e
