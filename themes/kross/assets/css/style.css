@@ -13,9 +13,9 @@ VERSION: Versoin Number
   --main-hover: #728395;
   --fg-main: #748CAB; */
 
-  --main: #333333;
+  --main: #000;
   --main-hover: #505050;
-  --fg-main: #6C5B7B;
+  --fg-main: #000;
 }
 
 
@@ -37,7 +37,7 @@ body {
 
 p {
   font-weight: 400;
-  color: #4c4c4c;
+  color: #000000;
   font-size: 15px;
   line-height: 1.8;
   font-family: "Rubik", sans-serif
@@ -229,7 +229,8 @@ a:hover {
 
 .section {
   padding-top: 80px;
-  padding-bottom: 80px
+  padding-bottom: 80px;
+  color: #000
 }
 
 .section-title {
@@ -551,44 +552,44 @@ textarea.form-control {
     bottom: 0;
     left: 0;
   }
-  
+
   #l2 {
     top: 190px;
     left: -250px;
   }
-  
+
   #l3 {
     top: 100px;
     left: 40%;
   }
-  
+
   #l4 {
     display: block;
     top: 200px;
     right: 10%;
   }
-  
+
   #l5 {
     top: 100px;
     right: -150px;
   }
-  
+
   #l6 {
     bottom: -20px;
     left: 5%;
   }
-  
+
   #l7 {
     display: block;
     bottom: 120px;
     left: 25%;
   }
-  
+
   #l8 {
     bottom: 40px;
     right: 30%;
   }
-  
+
   #l9 {
     display: block;
     bottom: 100px;
