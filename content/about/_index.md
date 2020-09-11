@@ -2,8 +2,6 @@
 title: "About"
 date: 2019-05-12T12:14:34+06:00
 description: "This is meta description."
-image : "images/about.jpg"
-imageBottom: "images/about-bottom.jpg"
 ---
 
 Relectric Car Team was founded at the University of Calgary in 2019 with the purpose to research affordable high-performance electric vehicles (EVs) conversions and design elements.
