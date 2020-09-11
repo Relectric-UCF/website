@@ -76,7 +76,7 @@ debug = true
 
   [params.contact]
   enable = true
-  formAction = "https://formspree.io/mwkvwrlg" #contact form works with formspree.io
+  formAction = "https://formspree.io/mwkrggkb" #contact form works with formspree.io
 
   [params.footer]
   email = "RelectricUCF@gmail.com"

@@ -1,17 +1,17 @@
 subteams:
-  - title : "Electrical-Mechanical"
-    icon : "ti-palette"
+  - title : "Electrical"
+    icon : "ti-magnet"
     content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     highlighted : true
 
   - title : "Software"
-    icon : "ti-vector"
+    icon : "ti-server"
     content : "For the software team, the main objective is to bridge the car’s system to the driver. The information from the car will be interpreted by the software team to display on the driver’s dashboard. They will be working with the Electrical-Mechanical team to receive important measurements, and display relevant information. They will also create a user interface system that provides an integrated environment for the user to have access to all the tools they need."
     highlighted : true
 
-  - title : "Geomatics"
-    icon : "ti-panel"
-    content : "The overarching project of the Geomatics Team is to create a framework for all the car measurements, such as speed, location, incline, and other geospatial properties. In addition to this, they equip the car with sensors that would allow for autonomous driving features, such as lane departure warnings, blind spot detection, and parking assistance. They also analyze how car sounds respond to different aspects of driving in order to create an algorithm that creates fake engine noise based on speed and acceleration."
+  - title : "Mechanical"
+    icon : "ti-settings"
+    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     highlighted : true
 
   - title : "Business"
