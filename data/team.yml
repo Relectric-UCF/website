@@ -1,7 +1,7 @@
 subteams:
   - title : "Electrical"
     icon : "ti-magnet"
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    content : "Responsible for the identification, research, procurement and installation of all electrical components required for the vehicle. This includes large components such as the battery, motor, battery management system, and charger. Smaller components include the throttle pedal potentiometer and brake pedal transducer. The electrical team also works closely with software for embedded systems projects using devices like Arduinos and Raspberry Pi’s."
     highlighted : true
 
   - title : "Software"
@@ -11,7 +11,7 @@ subteams:
 
   - title : "Mechanical"
     icon : "ti-settings"
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    content : "Tasked with the research and installation of parts related to the car that are not directly related to the electrical grid. This includes the motor, motor mount, transmission and it’s associated parts, battery housing, heating systems, braking, and more. This team works closely with the electrical team and will be spending most of its time doing hands-on work on the car this year."
     highlighted : true
 
   - title : "Business"
